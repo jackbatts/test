@@ -33,7 +33,7 @@ set word to array
 (((In another function)))
 (something like this: https://www.geeksforgeeks.org/convert-string-char-array-cpp/)
 ask user for input on word (failsafe if not a correct character)
-if not alphabet ( OR 4 (including cases into new function)) then error message "wtf are you doing lol"
+if not alphabet ( OR 4 (including cases into new function)) then error message "whatare you doing lol"
 else:
 user input into variable(uinp)
 use for loop to check if guess (uinp) is in the array (iterate through word_length value of array) this can be in *another file* as a function
